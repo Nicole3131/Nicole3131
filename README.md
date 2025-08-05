@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Nicole, a master student of data science.
-- 👀 I’m interested in data, machine learning and deep learning
-- 🌱 I’m currently looking for an intership  
-- 📫 Linkedin: Nicole Gemelli
+👋 Hi, I’m Nicole, a master student of data science.
+
+Welcome to my GitHub! I’m a data science student passionate about solving real-world problems using machine learning, deep learning, and data-driven insights.
+**Tech  strack:**
+- Languages: Python, RStudio, RMarkdown, SQL, AMPL
+- Data tools: Pandas, NumPy, Mathplotlib, Pytorch, TensorFlow, Tableau, Knime
+- Databases: MySQL, MongoDB, Graph Database
+- 
+**Let's connect**
+-  Linkedin: Nicole Gemelli, www.linkedin.com/in/nicole-gemelli-98054a31a
+-  E-mail: nicole.gemelli4@gmail.com
   
 
 <!---
